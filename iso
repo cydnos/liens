@@ -3,17 +3,17 @@ AcronisBootableMedia :
 AcronisTrueImage2021_35860 :
 	https://download.acronis.com/AcronisTrueImage2021_35860.exe
 	https://download.acronis.com/AcronisTrueImage2021_35860.iso
-android-x86-9.0-r2 :
+android :
 	https://www.android-x86.org/releases
-debian-10.3.0-amd64-netinst :
+debian :
 	https://www.debian.org/CD/http-ftp/
 	https://www.debian.org/CD/netinst/
-kali-linux-2023.1-installer-netinst-amd64 :
+kali :
 	https://www.kali.org/get-kali/#kali-installer-images
 MediaCreationTool22H2 :
 	https://www.microsoft.com/fr-fr/software-download/windows10
 	https://go.microsoft.com/fwlink/?LinkId=691209
-tsurugi_lab_2020.1 :
+tsurugi :
 	https://tsurugi-linux.org/downloads.php
 W10_22h2x64 :
 	https://archive.org/details/win-10-22-h-2-french-x-64
