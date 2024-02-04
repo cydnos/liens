@@ -1,11 +1,11 @@
 **acronis16** :
 	https://www.acronis.com/en-us/support/updates/index.html#consumer
-**AcronisTrueImage2021_35860** :
-	https://download.acronis.com/AcronisTrueImage2021_35860.iso
-**clonezilla** :
-	https://clonezilla.org/downloads/download.php?branch=stable
-**debian** :
-	https://www.debian.org/CD/
+ **AcronisTrueImage2021_35860** :
+ https://download.acronis.com/AcronisTrueImage2021_35860.iso
+ **clonezilla** :
+ https://clonezilla.org/downloads/download.php?branch=stable
+ **debian** :
+ https://www.debian.org/CD/
 **HBCD_PE_x64** :
 	https://www.hirensbootcd.org/download/
 **kaisenlinux** :
