@@ -5,7 +5,8 @@
 - [**Brave**](https://brave.com/fr/download/)
 - [**Chromium**](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 > https://chromium.woolyss.com
-- [**Cisco Packet Tracer 6.0.1 for Windows (with tutorials)**](https://archive.org/details/CiscoPacketTracer6.0.1ForWindowswithTutorials_2014**](https://archive.org/details/cisco-packet-tracer-6.0.1-for-windows-with-tutorials)
+- [**Cisco Packet Tracer 6.0.1 (with tutorials)**](https://archive.org/details/CiscoPacketTracer6.0.1ForWindowswithTutorials_2014**)
+> https://archive.org/details/cisco-packet-tracer-6.0.1-for-windows-with-tutorials
 - [**Cisco Packet Tracer 6.2 Instructor oul**](https://getintopc.com/softwares/network/cisco-packet-tracer-instructor-version-free-download/?id=000886053576)
 - [**CitrixWorkspace**](https://www.citrix.com/downloads/workspace-app/windows/)
 > https://www.citrix.com/downloads/workspace-app/workspace-app-for-windows-long-term-service-release/workspace-app-for-windows-LTSR-Latest.html
