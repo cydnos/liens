@@ -47,6 +47,8 @@
 - [**TI83CEBundle**](https://education.ti.com/fr/software/details/fr/881DDA6D5FCF4C0FA60E7E9D10CC0950/OS-Apps-Bundle)
 - [**TIConnectCE**](https://education.ti.com/en/products/computer-software/ti-connect-sw)
 - [**TreeSize Pro**](https://www.link4file.com/f1375628/treesize-professional-8.5.2.1715-portable-multilingual-x64.html)
+- [**Trellix GetSusp**](https://www.trellix.com/downloads/free-tools/getsusp/)
+- [**Trellix Stinger**](https://www.trellix.com/downloads/free-tools/stinger/)
 - [**Unifying**](https://support.logi.com/hc/fr/articles/360025297913-Unifying-Software)
 - [**Universal USB**](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
 - [**Unlocker**](http://emptyloop.com/unlocker/#download)
