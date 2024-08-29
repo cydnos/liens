@@ -1,6 +1,7 @@
 # Sommaire
 - [Base](#base-)
 - [Admin](#admin-)
+- [Texte](#texte-)
 - [Loisir](#loisir-)
 
 ### Base [↰](#sommaire)
@@ -36,6 +37,13 @@
 | [**Unlocker**](http://www.emptyloop.com/unlocker/)                                                                                                     | Utilitaire pour déverrouiller les fichiers utilisés par d'autres processus.                              |
 | [**VeraCrypt**](https://www.veracrypt.fr/en/Downloads.html)                                                                                            | Logiciel de chiffrement de disque open-source.                                                           |
 | [**vscodium**](https://github.com/VSCodium/vscodium/releases)                                                                                          | Version open-source de Visual Studio Code sans télémétrie.                                               |
+### Texte [↰](#sommaire)
+| Nom                                                                         | Description                                                                      |
+|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| [**Geany**](https://www.geany.org/download/releases/)                       | Un éditeur de texte léger et rapide avec des fonctionnalités IDE.                |
+| [**Notepad++**](https://notepad-plus-plus.org/downloads/)                   | Un éditeur de code source gratuit avec support pour plusieurs langages.          |
+| [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer) | Un lecteur de PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ et CBR léger et rapide.       |
+| [**VSCodium**](https://github.com/VSCodium/vscodium/releases)               | Une version open-source de Visual Studio Code sans les télémetries de Microsoft. |
 
 ### Loisir [↰](#sommaire)
 | Nom                                                                                     | Description                                                                                  |
