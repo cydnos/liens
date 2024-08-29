@@ -10,6 +10,7 @@
 - [**Notepad++**](https://notepad-plus-plus.org/downloads/)
 - [**ProtonVPN**](https://protonvpn.com/download)
 - [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+- [**Thunderbird**](https://www.thunderbird.net/fr/download/)
 - [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)
 - [**VLC**](https://www.videolan.org/vlc/index.fr.html)
 - [**7 zip**](https://www.7-zip.org/download.html)
@@ -23,3 +24,4 @@
 - [**Tftpd64**](https://bitbucket.org/phjounin/tftpd64/downloads/)
 - [**Unlocker**](http://www.emptyloop.com/unlocker/)
 - [**VeraCrypt**](https://www.veracrypt.fr/en/Downloads.html)
+- [**vscodium**](https://github.com/VSCodium/vscodium/releases)
