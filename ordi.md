@@ -1,7 +1,5 @@
 - [**Acrobat20**](https://helpx.adobe.com/fr/download-install/kb/acrobat-2020-downloads.html)
 - [**AnyDesk**](https://anydesk.com/fr/downloads/windows)
-- [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)
-- [**Brave**](https://brave.com/fr/download/)
 - [**Chromium**](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases)
 > https://chromium.woolyss.com
 - [**Cisco Packet Tracer 6.0.1 (with tutorials)**](https://archive.org/details/CiscoPacketTracer6.0.1ForWindowswithTutorials_2014**)
@@ -15,7 +13,6 @@
 - [**Project Professional_2021**](https://support.microsoft.com/fr-fr/office/installer-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)
 - [**HeidiSQL**](https://www.heidisql.com/download.php)
 - [**Intel Driver and Support Assistant**](https://www.intel.com/content/www/us/en/download/18002/intel-driver-support-assistant.html)
-- [**KeePass**](https://keepass.info/download.html)
 - [**LibreOffice**](https://fr.libreoffice.org/download/telecharger-libreoffice/)
 - [**LockNote**](https://shop.steganos.com/fr/produits/steganos-locknote-2)
 > https://sourceforge.net/projects/locknote/
@@ -40,7 +37,6 @@
 - [**Setup.Def.fr-fr_O365ProPlusRetail_02e22abe-8892-4214-b290-1854ada51bc4_TX_DB_Platform_def_b_3**](https://support.microsoft.com/fr-fr/office/utiliser-le-programme-d-installation-en-mode-hors-connexion-office-f0a85fe7-118f-41cb-a791-d59cef96ad1c)
 - [**Sony Ericsson PC Suite**](https://www.clubic.com/telecharger-fiche312200-sony-ericsson-pc-suite.html)
 - [**SQL Developer**](https://www.oracle.com/database/sqldeveloper/technologies/download/)
-- [**Thunderbird**](https://www.thunderbird.net/fr/download/)
 - [**TI83CEBundle**](https://education.ti.com/fr/software/details/fr/881DDA6D5FCF4C0FA60E7E9D10CC0950/OS-Apps-Bundle)
 - [**TIConnectCE**](https://education.ti.com/en/products/computer-software/ti-connect-sw)
 - [**TreeSize Pro**](https://www.link4file.com/f1375628/treesize-professional-8.5.2.1715-portable-multilingual-x64.html)
@@ -53,7 +49,6 @@
 - [**VeraCrypt**](https://veracrypt.eu/en/Downloads.html)
 - [**VirtualBox & Extension-Pack**](https://www.virtualbox.org/wiki/Downloads)
 - [**volatility_2.6_win64_standalone**](https://www.volatilityfoundation.org/releases)
-- [**vscodium**](https://github.com/VSCodium/vscodium/releases)
 - [**Visual Studio Community**](https://visualstudio.microsoft.com/fr/vs/community/)
 - [**vs_enterprise__284288317.16015852**](https://visualstudio.microsoft.com/fr/downloads/)
 > https://learn.microsoft.com/fr-fr/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2022
@@ -61,6 +56,5 @@
 > https://support-fr.wd.com/app/answers/detailweb/a_id/9401
 - [**Winget**](https://github.com/microsoft/winget-cli/releases)
 > https://phoenixnap.com/kb/install-winget
-- [**Winrar**](https://www.win-rar.com/download.html?&L=10)
 - [**wsl_update_x**](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [**Wsusoffline**](https://download.wsusoffline.net/)
