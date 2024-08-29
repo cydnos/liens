@@ -1,4 +1,3 @@
-- [**7zip**](https://www.7-zip.org/download.html)
 - [**Acrobat20**](https://helpx.adobe.com/fr/download-install/kb/acrobat-2020-downloads.html)
 - [**AnyDesk**](https://anydesk.com/fr/downloads/windows)
 - [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)
@@ -13,7 +12,6 @@
 - [**DB.Browser.for.SQLite**](https://sqlitebrowser.org/dl/)
 - [**ESET Online Scanner**](http://www.eset.com/fr/home/products/online-scanner/)
 > https://forum.pcastuces.com/eset_online_scanner___nouvelle_version___tutoriel-f31s56.htm
-- [**Firefox**](https://www.mozilla.org/fr/firefox/all/)
 - [**Project Professional_2021**](https://support.microsoft.com/fr-fr/office/installer-project-7059249b-d9fe-4d61-ab96-5c5bf435f281)
 - [**HeidiSQL**](https://www.heidisql.com/download.php)
 - [**Intel Driver and Support Assistant**](https://www.intel.com/content/www/us/en/download/18002/intel-driver-support-assistant.html)
