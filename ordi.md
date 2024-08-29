@@ -19,7 +19,6 @@
 - [**Logi options +**](https://www.logitech.com/fr-fr/setup/ergosetup/logi-options.html)
 - [**Macrium Reflect**](https://www.macrium.com/download)
 > https://archive.org/details/mu_system_center_virtual_machine_manager_2019_x64_dvd_06c18108
-- [**MobaXterm**](https://mobaxterm.mobatek.net/download.html)
 - [**mu_system_center_virtual_machine_manager_2019_x64_dvd_06c181**](https://archive.org/details/mu_system_center_virtual_machine_manager_2019_x64_dvd_06c18108)
 > https://www.digiboy.ir/8672/microsoft-system-center-2019/
 - [**Nessus**](https://www.tenable.com/downloads/nessus?loginAttempted=true)
