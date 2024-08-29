@@ -1,4 +1,0 @@
-- [**Geany**](https://www.geany.org/download/releases/)
-- [**Notepad++**](https://notepad-plus-plus.org/downloads/)
-- [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
-- [**VSCodium**](https://github.com/VSCodium/vscodium/releases)
