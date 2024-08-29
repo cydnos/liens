@@ -15,22 +15,19 @@
 - [**LockNote**](https://shop.steganos.com/fr/produits/steganos-locknote-2)
 - [**Logi options +**](https://www.logitech.com/fr-fr/setup/ergosetup/logi-options.html)
 - [**Macrium Reflect**](https://www.macrium.com/download)
-> https://archive.org/details/mu_system_center_virtual_machine_manager_2019_x64_dvd_06c18108
 - [**mu_system_center_virtual_machine_manager_2019_x64_dvd_06c181**](https://archive.org/details/mu_system_center_virtual_machine_manager_2019_x64_dvd_06c18108)
 > https://www.digiboy.ir/8672/microsoft-system-center-2019/
 - [**Nessus**](https://www.tenable.com/downloads/nessus?loginAttempted=true)
 - [**OO Disk Image 15 Professional**](https://www.oo-software.com/fr/download/current/oodiskimagepro)
 - [**Oracle Express Edition**](https://www.oracle.com/fr/database/technologies/xe-downloads.html)
-- [**Packet Tracer**](https://saveshared.com/UK87UlqXiq/9a5fffcd7fa373a0ee94fdc490664e83/packettracer-7-3-0-win64-setup-exe/)
-> https://www.virustotal.com/gui/file/6ded73b437e967c9ff6508c0fa853f45abd7fe97f430d53a139834c9a9ebb778/behavior
+- [**Packet Tracer 7.3**](https://saveshared.com/UK87UlqXiq/9a5fffcd7fa373a0ee94fdc490664e83/packettracer-7-3-0-win64-setup-exe/) ([Comportement VT](https://www.virustotal.com/gui/file/6ded73b437e967c9ff6508c0fa853f45abd7fe97f430d53a139834c9a9ebb778/behavior))
 - [**Pencil**](https://pencil.evolus.vn/Downloads.html)
 - [**Pluralsight**](https://www.pluralsight.com/product/downloads)
 - [**PRTG Network Monitor**](https://www.paessler.com/prtg/download)
 - [**Pycharm-professional**](https://www.jetbrains.com/fr-fr/pycharm/download/)
 - [**Python**](https://www.python.org/downloads/)
-- [**SanDiskSecureAccess**](https://support-fr.wd.com/app/answers/detailweb/a_id/39480/)
-> https://support-fr.wd.com/app/answers/detailweb/a_id/48040/
-- [**Setup.Def.fr-fr_O365ProPlusRetail_02e22abe-8892-4214-b290-1854ada51bc4_TX_DB_Platform_def_b_3**](https://support.microsoft.com/fr-fr/office/utiliser-le-programme-d-installation-en-mode-hors-connexion-office-f0a85fe7-118f-41cb-a791-d59cef96ad1c)
+- [**SanDiskSecureAccess**](https://support-fr.wd.com/app/answers/detailweb/a_id/39480/) ([déprécié](https://support-fr.wd.com/app/answers/detailweb/a_id/48040/))
+- [**Setup.Def.fr-fr_O365ProPlusRetail**](https://support.microsoft.com/fr-fr/office/utiliser-le-programme-d-installation-en-mode-hors-connexion-office-f0a85fe7-118f-41cb-a791-d59cef96ad1c)
 - [**Sony Ericsson PC Suite**](https://www.clubic.com/telecharger-fiche312200-sony-ericsson-pc-suite.html)
 - [**SQL Developer**](https://www.oracle.com/database/sqldeveloper/technologies/download/)
 - [**TI83CEBundle**](https://education.ti.com/fr/software/details/fr/881DDA6D5FCF4C0FA60E7E9D10CC0950/OS-Apps-Bundle)
@@ -39,7 +36,6 @@
 - [**Trellix GetSusp**](https://www.trellix.com/downloads/free-tools/getsusp/)
 - [**Trellix Stinger**](https://www.trellix.com/downloads/free-tools/stinger/)
 - [**Unifying**](https://support.logi.com/hc/fr/articles/360025297913-Unifying-Software)
-- [**Universal USB**](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)
 - [**Unlocker**](http://emptyloop.com/unlocker/#download)
 - [**Ventoy**](https://www.ventoy.net/en/download.html)
 - [**VeraCrypt**](https://veracrypt.eu/en/Downloads.html)
