@@ -13,7 +13,6 @@
 - [**Intel Driver and Support Assistant**](https://www.intel.com/content/www/us/en/download/18002/intel-driver-support-assistant.html)
 - [**LibreOffice**](https://fr.libreoffice.org/download/telecharger-libreoffice/)
 - [**LockNote**](https://shop.steganos.com/fr/produits/steganos-locknote-2)
-> https://sourceforge.net/projects/locknote/
 - [**Logi options +**](https://www.logitech.com/fr-fr/setup/ergosetup/logi-options.html)
 - [**Macrium Reflect**](https://www.macrium.com/download)
 > https://archive.org/details/mu_system_center_virtual_machine_manager_2019_x64_dvd_06c18108
