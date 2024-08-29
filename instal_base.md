@@ -1,6 +1,7 @@
 - [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)
 - [**Brave**](https://brave.com/fr/download/)
 - [**Chromium**](https://chromium.woolyss.com/)
+- [**Firefox**](https://www.mozilla.org/fr/firefox/all/)
 - [**Hiren’s Boot**](https://www.hirensbootcd.org/download/)
 - [**iTunes**](https://www.apple.com/itunes/download/win64)
 - [**KeePass**](https://keepass.info/download.html)
