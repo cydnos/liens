@@ -1,19 +1,21 @@
-- [**acronis16**](https://www.acronis.com/en-us/support/updates/index.html#consumer)
-- [**AcronisTrueImage2021_35860**](https://download.acronis.com/AcronisTrueImage2021_35860.iso)
-- [**clonezilla**](https://clonezilla.org/downloads/download.php?branch=stable)
-- [**debian**](https://www.debian.org/CD/)
-- [**HBCD_PE_x64**](https://www.hirensbootcd.org/download/)
-- [**kaisenlinux**](https://kaisenlinux.org/downloads)
-- [**kali**](https://www.kali.org/get-kali/#kali-installer-images)
-- [**Scanner de sécurité Microsoft**](https://learn.microsoft.com/fr-fr/microsoft-365/security/intelligence/safety-scanner-download)
-- [**tails**](https://tails.net/install/download/index.en.html)
-- [**TrendMicroRescueDisk.exe**](https://www.trendmicro.com/fr_fr/forHome/products/free-tools/rescue-disk.html)
-- [**tsurugi**](https://tsurugi-linux.org/downloads.php)
-- [**VeeamAgentWindows**](https://www.veeam.com/fr/agent-for-windows-community-edition.html)
-- [**W10_22h2x64**](https://www.microsoft.com/fr-fr/software-download/windows10)
-- [**W7_Pro_SP1x64**](https://lecrabeinfo.net/telecharger/windows-7-professionnel-sp1-x64)
-- [**W8.1**](https://www.microsoft.com/fr-fr/software-download/windows8ISO)
-- [**Win11_French_x64v1**](https://www.microsoft.com/fr-fr/software-download/windows11)
-- [**Windows 10 Enterprise LTSC 2021 x64**](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
-- [**WS19Standard**](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)
-- [**wsusoffline**](https://download.wsusoffline.net/)
+| Nom                                																								 | Description                                                                    							|
+|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+| [**acronis16**](https://www.acronis.com/en-us/support/updates/index.html#consumer)                                                 | Version d'Acronis True Image pour la sauvegarde et la récupération de données.                           |
+| [**AcronisTrueImage2021_35860**](https://download.acronis.com/AcronisTrueImage2021_35860.iso)                                      | Logiciel de sauvegarde et de récupération de données pour Windows et Mac.                                |
+| [**clonezilla**](https://clonezilla.org/downloads/download.php?branch=stable)                                                      | Outil open-source pour le clonage et la sauvegarde de disques¹.                                          |
+| [**debian**](https://www.debian.org/CD/)                                                                                           | Distribution Linux universelle et open-source.                                                           |
+| [**HBCD_PE_x64**](https://www.hirensbootcd.org/download/)                                                                          | Version 64 bits de Hiren's BootCD PE, un outil de récupération de système.                               |
+| [**kaisenlinux**](https://kaisenlinux.org/downloads)                                                                               | Distribution Linux spécialisée pour les professionnels de l'informatique.                                |
+| [**kali**](https://www.kali.org/get-kali/#kali-installer-images)                                                                   | Distribution Linux dédiée aux tests de pénétration et à la sécurité.                                     |
+| [**Scanner de sécurité Microsoft**](https://learn.microsoft.com/fr-fr/microsoft-365/security/intelligence/safety-scanner-download) | Outil d’analyse conçu pour rechercher et supprimer les programmes malveillants des ordinateurs Windows². |
+| [**tails**](https://tails.net/install/download/index.en.html)                                                                      | Distribution Linux axée sur la confidentialité et l'anonymat.                                            |
+| [**TrendMicroRescueDisk.exe**](https://www.trendmicro.com/fr_fr/forHome/products/free-tools/rescue-disk.html)                      | Outil de récupération pour éliminer les menaces de sécurité sur les systèmes infectés.                   |
+| [**tsurugi**](https://tsurugi-linux.org/downloads.php)                                                                             | Distribution Linux pour les enquêtes numériques et la criminalistique.                                   |
+| [**VeeamAgentWindows**](https://www.veeam.com/fr/agent-for-windows-community-edition.html)                                         | Logiciel de sauvegarde et de récupération pour les systèmes Windows.                                     |
+| [**W10_22h2x64**](https://www.microsoft.com/fr-fr/software-download/windows10)                                                     | Version 64 bits de Windows 10, mise à jour 22H2.                                                         |
+| [**W7_Pro_SP1x64**](https://lecrabeinfo.net/telecharger/windows-7-professionnel-sp1-x64)                                           | Version 64 bits de Windows 7 Professionnel avec Service Pack 1.                                          |
+| [**W8.1**](https://www.microsoft.com/fr-fr/software-download/windows8ISO)                                                          | Version de Windows 8.1.                                                                                  |
+| [**Win11_French_x64v1**](https://www.microsoft.com/fr-fr/software-download/windows11)                                              | Version 64 bits de Windows 11 en français.                                                               |
+| [**Windows 10 Enterprise LTSC 2021 x64**](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)               | Version 64 bits de Windows 10 Enterprise LTSC 2021.                                                      |
+| [**WS19Standard**](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019)                                        | Version Standard de Windows Server 2019.                                                                 |
+| [**wsusoffline**](https://download.wsusoffline.net/)                                                                               | Outil pour télécharger et appliquer les mises à jour de Windows hors ligne.                              |
