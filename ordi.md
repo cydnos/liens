@@ -29,6 +29,7 @@
 - [**SanDiskSecureAccess**](https://support-fr.wd.com/app/answers/detailweb/a_id/39480/) ([déprécié](https://support-fr.wd.com/app/answers/detailweb/a_id/48040/))
 - [**Setup.Def.fr-fr_O365ProPlusRetail**](https://support.microsoft.com/fr-fr/office/utiliser-le-programme-d-installation-en-mode-hors-connexion-office-f0a85fe7-118f-41cb-a791-d59cef96ad1c)
 - [**Sony Ericsson PC Suite**](https://www.clubic.com/telecharger-fiche312200-sony-ericsson-pc-suite.html)
+- [**Sophos Scan & Clean**](https://www.sophos.com/en-us/free-tools/virus-removal-tool)
 - [**SQL Developer**](https://www.oracle.com/database/sqldeveloper/technologies/download/)
 - [**TI83CEBundle**](https://education.ti.com/fr/software/details/fr/881DDA6D5FCF4C0FA60E7E9D10CC0950/OS-Apps-Bundle)
 - [**TIConnectCE**](https://education.ti.com/en/products/computer-software/ti-connect-sw)
