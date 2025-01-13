@@ -59,7 +59,7 @@
 | [**Processing**](https://processing.org/download/)                                      | Environnement de développement open-source pour les arts visuels et graphiques.              |
 | [**Sweet Home 3D**](https://sweethome3d.com/fr/download.jsp)                            | Logiciel libre d'aménagement d'intérieur. (version portable plus complète)                   |
 | [**TM-Sunrise**](https://archive.org/details/TMSunrise)                                 | Jeu de course en ligne avec des pistes personnalisables.                                     |
-| [**Vlc**](https://www.videolan.org/vlc/download-windows.html)                           | Lecteur multimédia open-source capable de lire la plupart des formats.                       |
+| [**VLC**](https://www.videolan.org/vlc/download-windows.html)                           | Lecteur multimédia open-source capable de lire la plupart des formats.                       |
 | [**WacomTablet_6.3.38-2**](https://www.wacom.com/fr-fr/support/product-support/drivers) | Pilote pour les tablettes graphiques Wacom.                                                  |
 | [**WhiteCap**](https://www.soundspectrum.com/whitecap/)                                 | Visualiseur de musique en temps réel pour les lecteurs multimédia.                           |
 | [**XnView**](https://www.xnview.com/fr/xnview/)                                         | Visionneuse et convertisseur d'images multi-format.                                          |
