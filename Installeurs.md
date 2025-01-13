@@ -23,7 +23,7 @@
 | [**Thunderbird**](https://www.thunderbird.net/fr/download/)                | Client de messagerie open-source développé par Mozilla.                     |
 | [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)                | Logiciel de virtualisation pour exécuter plusieurs systèmes d'exploitation. |
 | [**VLC**](https://www.videolan.org/vlc/index.fr.html)                      | Lecteur multimédia open-source capable de lire la plupart des formats.      |
-| [**7 zip**](https://www.7-zip.org/download.html)                           | Logiciel de compression de fichiers open-source.                            |
+| [**7-Zip**](https://www.7-zip.org/download.html)                           | Logiciel de compression de fichiers open-source.                            |
 
 ### Admin [↰](#sommaire)
 | Nom                                                                                                                                                    | Description                                                                                              |
