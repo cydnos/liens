@@ -10,6 +10,7 @@
 | [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)            | Outil d'analyse et de visualisation de l'arborescence des fichiers.         |
 | [**Brave**](https://brave.com/fr/download/)                                | Navigateur web axé sur la confidentialité et la sécurité.                   |
 | [**Chromium**](https://chromium.woolyss.com/)                              | Projet de navigateur open-source qui sert de base à Google Chrome.          |
+| [**DupeGuru**](https://dupeguru.voltaicideas.net/)                         | Outil de recherche de doublons de fichiers.                                 |
 | [**Firefox**](https://www.mozilla.org/fr/firefox/all/)                     | Navigateur web open-source développé par Mozilla.                           |
 | [**Hiren’s Boot**](https://www.hirensbootcd.org/download/)                 | Ensemble d'outils pour la maintenance et la récupération de systèmes.       |
 | [**iTunes**](https://www.apple.com/itunes/download/win64)                  | Lecteur multimédia et gestionnaire de bibliothèque pour les appareils Apple.|
@@ -56,6 +57,7 @@
 | [**CopyTrans_Suite**](https://fr.copytrans.net/download/)                               | Suite d'outils pour gérer les appareils iOS depuis un PC.                                    |
 | [**PainterEssentials7**](https://www.painterartist.com/en/product/painter-essentials/)  | Logiciel de peinture numérique pour les artistes débutants et amateurs.                      |
 | [**Processing**](https://processing.org/download/)                                      | Environnement de développement open-source pour les arts visuels et graphiques.              |
+| [**Sweet Home 3D**](https://sweethome3d.com/fr/download.jsp)                            | Logiciel libre d'aménagement d'intérieur. (version portable plus complète)                   |
 | [**TM-Sunrise**](https://archive.org/details/TMSunrise)                                 | Jeu de course en ligne avec des pistes personnalisables.                                     |
 | [**Vlc**](https://www.videolan.org/vlc/download-windows.html)                           | Lecteur multimédia open-source capable de lire la plupart des formats.                       |
 | [**WacomTablet_6.3.38-2**](https://www.wacom.com/fr-fr/support/product-support/drivers) | Pilote pour les tablettes graphiques Wacom.                                                  |
