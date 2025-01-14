@@ -43,6 +43,7 @@
 ### Admin [↰](#sommaire)
 | Nom                                                               | Description                                                                         |
 |-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [**DB Browser for SQLite**](https://sqlitebrowser.org/dl/)        | Outil de manipulation de base de données SQLite or SQLCipher.                       |
 | [**Macrium**](https://www.macrium.com/reflectfree)                | Logiciel de sauvegarde et de récupération de données pour Windows.                  |
 | [**MIBBrowser**](https://www.ireasoning.com/download.shtml)       | Outil pour explorer et gérer les informations de gestion réseau SNMP.               |
 | [**MobaXterm**](https://mobaxterm.mobatek.net/download.html)      | Terminal et outil de réseau pour Windows avec de nombreuses fonctionnalités.        |
@@ -50,6 +51,7 @@
 | [**sysinternals**](\\live.sysinternals.com\tools)                 | Suite d'outils pour la gestion, le diagnostic et le dépannage des systèmes Windows. |
 | [**Tftpd64**](https://bitbucket.org/phjounin/tftpd64/downloads/)  | Serveur TFTP, DHCP, SNTP et Syslog pour Windows.                                    |
 | [**Unlocker**](http://www.emptyloop.com/unlocker/)                | Utilitaire pour déverrouiller les fichiers utilisés par d'autres processus.         |
+| [**UserBenchmark**](https://www.userbenchmark.com/)               | Utilitaire d'analyse de vitesse de lecture/écriture de composants matériels.        |
 | [**VeraCrypt**](https://www.veracrypt.fr/en/Downloads.html)       | Logiciel de chiffrement de disque open-source.                                      |
 | [**vscodium**](https://github.com/VSCodium/vscodium/releases)     | Version open-source de Visual Studio Code sans télémétrie.                          |
 
@@ -74,6 +76,7 @@
 | [**Processing**](https://processing.org/download/)                                      | Environnement de développement open-source pour les arts visuels et graphiques.              |
 | [**Sweet Home 3D**](https://sweethome3d.com/fr/download.jsp)                            | Logiciel libre d'aménagement d'intérieur. (version portable plus complète)                   |
 | [**TM-Sunrise**](https://archive.org/details/TMSunrise)                                 | Jeu de course en ligne avec des pistes personnalisables.                                     |
+| [**Ubisoft Connect PC**](https://ubi.li/4vxt9)                                          | Hub d'accès au produits Ubisoft.                                                             |
 | [**VLC**](https://www.videolan.org/vlc/download-windows.html)                           | Lecteur multimédia open-source capable de lire la plupart des formats.                       |
 | [**WacomTablet_6.3.38-2**](https://www.wacom.com/fr-fr/support/product-support/drivers) | Pilote pour les tablettes graphiques Wacom.                                                  |
 | [**WhiteCap**](https://www.soundspectrum.com/whitecap/)                                 | Visualiseur de musique en temps réel pour les lecteurs multimédia.                           |
