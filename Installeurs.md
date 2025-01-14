@@ -1,5 +1,6 @@
 # Sommaire
 - [Base](#base-)
+- [Secu](#secu-)
 - [Admin](#admin-)
 - [Texte](#texte-)
 - [Loisir](#loisir-)
@@ -25,19 +26,33 @@
 | [**VLC**](https://www.videolan.org/vlc/index.fr.html)                      | Lecteur multimédia open-source capable de lire la plupart des formats.      |
 | [**7-Zip**](https://www.7-zip.org/download.html)                           | Logiciel de compression de fichiers open-source.                            |
 
-### Admin [↰](#sommaire)
+### Secu [↰](#sommaire)
 | Nom                                                                                                                                                    | Description                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| [**Macrium**](https://www.macrium.com/reflectfree)                                                                                                     | Logiciel de sauvegarde et de récupération de données pour Windows.                                       |
-| [**MIBBrowser**](https://www.ireasoning.com/download.shtml)                                                                                            | Outil pour explorer et gérer les informations de gestion réseau SNMP.                                    |
-| [**MobaXterm**](https://mobaxterm.mobatek.net/download.html)                                                                                           | Terminal et outil de réseau pour Windows avec de nombreuses fonctionnalités.                             |
-| [**Photorec**](https://www.cgsecurity.org/wiki/TestDisk_Download)                                                                                      | Logiciel de récupération de données pour les fichiers perdus.                                            |
-| [**Scanner de sécurité Microsoft**](https://learn.microsoft.com/fr-fr/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) | Outil d’analyse conçu pour rechercher et supprimer les programmes malveillants des ordinateurs Windows¹. |
-| [**sysinternals**](\\live.sysinternals.com\tools)                                                                                                      | Suite d'outils pour la gestion, le diagnostic et le dépannage des systèmes Windows².                     |
-| [**Tftpd64**](https://bitbucket.org/phjounin/tftpd64/downloads/)                                                                                       | Serveur TFTP, DHCP, SNTP et Syslog pour Windows.                                                         |
-| [**Unlocker**](http://www.emptyloop.com/unlocker/)                                                                                                     | Utilitaire pour déverrouiller les fichiers utilisés par d'autres processus.                              |
-| [**VeraCrypt**](https://www.veracrypt.fr/en/Downloads.html)                                                                                            | Logiciel de chiffrement de disque open-source.                                                           |
-| [**vscodium**](https://github.com/VSCodium/vscodium/releases)                                                                                          | Version open-source de Visual Studio Code sans télémétrie.                                               |
+| [**ESET Lecteur des fichiers système cachés**](http://download.eset.com/special/ESETHfsReader.exe) | Outil forensique analysant les infections actives. |
+| [**ESET Online Scanner**](https://www.eset.com/na/home/products/online-scanner/) | Scanner en ligne d'ESET pour détecter les malware. |
+| [**ESET Rogue Application Remover**](https://support.eset.com/en/kb3035-how-do-i-use-the-eset-rogue-application-remover-erar) | Solution de détection à chaud proposée par ESET. |
+| [**ESET Rootkit Detector**](https://www.eset.com/na/support/rootkit-detector/) | permet d’analyser en un seul clic votre Mac sous OS X pour détecter la présence d’éventuels rootkits. |
+| [**ESET SysInspector**](https://www.eset.com/na/support/sysinspector/) | Outil de diagnostic des informations critiques et détaillées proposée par ESET. |
+| [**ESET SysRescue Live**](https://www.eset.com/na/support/sysrescue/) | Distribution Linux qui peut rechercher des logiciels malveillants et nettoyer les fichiers infectés proposée par ESET. |
+| [**HouseCall - Scan antivirus en ligne gratuit**](https://www.trendmicro.com/fr_fr/forHome/products/housecall.html) | Solution de détection à chaud proposée par Trend Micro. |
+| [**Kaspersky Rescue Disk**](https://www.kaspersky.fr/downloads/free-rescue-disk) | Solution de détection à froid proposée par Kaspersky. |
+| [**Rescue Disk**](https://www.trendmicro.com/fr_fr/forHome/products/free-tools/rescue-disk.html) | Solution de détection à froid proposée par Trend Micro. |
+| [**Scanner de sécurité Microsoft**](https://learn.microsoft.com/fr-fr/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) | Outil d’analyse conçu pour rechercher et supprimer les programmes malveillants des ordinateurs Windows. |
+
+### Admin [↰](#sommaire)
+| Nom                                                               | Description                                                                         |
+|-------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| [**Macrium**](https://www.macrium.com/reflectfree)                | Logiciel de sauvegarde et de récupération de données pour Windows.                  |
+| [**MIBBrowser**](https://www.ireasoning.com/download.shtml)       | Outil pour explorer et gérer les informations de gestion réseau SNMP.               |
+| [**MobaXterm**](https://mobaxterm.mobatek.net/download.html)      | Terminal et outil de réseau pour Windows avec de nombreuses fonctionnalités.        |
+| [**Photorec**](https://www.cgsecurity.org/wiki/TestDisk_Download) | Logiciel de récupération de données pour les fichiers perdus.                       |
+| [**sysinternals**](\\live.sysinternals.com\tools)                 | Suite d'outils pour la gestion, le diagnostic et le dépannage des systèmes Windows. |
+| [**Tftpd64**](https://bitbucket.org/phjounin/tftpd64/downloads/)  | Serveur TFTP, DHCP, SNTP et Syslog pour Windows.                                    |
+| [**Unlocker**](http://www.emptyloop.com/unlocker/)                | Utilitaire pour déverrouiller les fichiers utilisés par d'autres processus.         |
+| [**VeraCrypt**](https://www.veracrypt.fr/en/Downloads.html)       | Logiciel de chiffrement de disque open-source.                                      |
+| [**vscodium**](https://github.com/VSCodium/vscodium/releases)     | Version open-source de Visual Studio Code sans télémétrie.                          |
+
 ### Texte [↰](#sommaire)
 | Nom                                                                         | Description                                                                      |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|
