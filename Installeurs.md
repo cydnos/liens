@@ -6,24 +6,25 @@
 - [Loisir](#loisir-)
 
 ### Base [↰](#sommaire)
-| Nom                                                                        | Description                                                                 | ID Winget |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
-| [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)            | Outil d'analyse et de visualisation de l'arborescence des fichiers.         ||
-| [**Brave**](https://brave.com/fr/download/)                                | Navigateur web axé sur la confidentialité et la sécurité.                   | `Brave.Brave` |
-| [**Chromium**](https://chromium.woolyss.com/)                              | Projet de navigateur open-source qui sert de base à Google Chrome.          ||
-| [**DupeGuru**](https://dupeguru.voltaicideas.net/)                         | Outil de recherche de doublons de fichiers.                                 ||
-| [**Firefox**](https://www.mozilla.org/fr/firefox/all/)                     | Navigateur web open-source développé par Mozilla.                           | `Mozilla.Firefox` |
-| [**Hiren’s Boot**](https://www.hirensbootcd.org/download/)                 | Ensemble d'outils pour la maintenance et la récupération de systèmes.       ||
-| [**iTunes**](https://www.apple.com/itunes/download/win64)                  | Lecteur multimédia et gestionnaire de bibliothèque pour les appareils Apple.||
-| [**KeePass**](https://keepass.info/download.html)                          | Gestionnaire de mots de passe open-source recommandé par l'ANSSI.           | `DominikReichl.KeePass` |
-| [**Librewolf**](https://librewolf.net/installation/)                       | Version de Firefox axée sur la confidentialité et sans télémétrie.          ||
-| [**Notepad++**](https://notepad-plus-plus.org/downloads/)                  | Éditeur de texte et de code source pour Windows.                            | `Notepad++.Notepad++` |
-| [**ProtonVPN**](https://protonvpn.com/download)                            | Service VPN axé sur la sécurité et la confidentialité.                      ||
-| [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer)| Lecteur de PDF léger et open-source pour Windows.                           | `SumatraPDF.SumatraPDF` |
-| [**Thunderbird**](https://www.thunderbird.net/fr/download/)                | Client de messagerie open-source développé par Mozilla.                     | `Mozilla.Thunderbird.fr` |
-| [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)                | Logiciel de virtualisation pour exécuter plusieurs systèmes d'exploitation. | `Oracle.VirtualBox` |
-| [**VLC**](https://www.videolan.org/vlc/index.fr.html)                      | Lecteur multimédia open-source capable de lire la plupart des formats.      | `VideoLAN.VLC` |
-| [**7-Zip**](https://www.7-zip.org/download.html)                           | Logiciel de compression de fichiers open-source.                            | `7zip.7zip` |
+| Nom                                                                             | Description                                                                 | ID Winget |
+|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
+| [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)                 | Outil d'analyse et de visualisation de l'arborescence des fichiers.         ||
+| [**Brave**](https://brave.com/fr/download/)                                     | Navigateur web axé sur la confidentialité et la sécurité.                   | `Brave.Brave` |
+| [**Chromium**](https://chromium.woolyss.com/)                                   | Projet de navigateur open-source qui sert de base à Google Chrome.          ||
+| [**DupeGuru**](https://dupeguru.voltaicideas.net/)                              | Outil de recherche de doublons de fichiers.                                 ||
+| [**Firefox**](https://www.mozilla.org/fr/firefox/all/)                          | Navigateur web open-source développé par Mozilla.                           | `Mozilla.Firefox` |
+| [**Hiren’s Boot**](https://www.hirensbootcd.org/download/)                      | Ensemble d'outils pour la maintenance et la récupération de systèmes.       ||
+| [**iTunes**](https://www.apple.com/itunes/download/win64)                       | Lecteur multimédia et gestionnaire de bibliothèque pour les appareils Apple.||
+| [**KeePass**](https://keepass.info/download.html)                               | Gestionnaire de mots de passe open-source recommandé par l'ANSSI.           | `DominikReichl.KeePass` |
+| [**Librewolf**](https://librewolf.net/installation/)                            | Version de Firefox axée sur la confidentialité et sans télémétrie.          ||
+| [**Notepad++**](https://notepad-plus-plus.org/downloads/)                       | Éditeur de texte et de code source pour Windows.                            | `Notepad++.Notepad++` |
+| [**ProtonVPN**](https://protonvpn.com/download)                                 | Service VPN axé sur la sécurité et la confidentialité.                      ||
+| [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer)     | Lecteur de PDF léger et open-source pour Windows.                           | `SumatraPDF.SumatraPDF` |
+| [**Thunderbird**](https://www.thunderbird.net/fr/download/)                     | Client de messagerie open-source développé par Mozilla.                     | `Mozilla.Thunderbird.fr` |
+| [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)                     | Logiciel de virtualisation pour exécuter plusieurs systèmes d'exploitation. | `Oracle.VirtualBox` |
+| [**VLC**](https://www.videolan.org/vlc/index.fr.html)                           | Lecteur multimédia open-source capable de lire la plupart des formats.      | `VideoLAN.VLC` |
+| [**Winget**](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/) | Gestionnaire de paquets pour Windows.                                       ||
+| [**7-Zip**](https://www.7-zip.org/download.html)                                | Logiciel de compression de fichiers open-source.                            | `7zip.7zip` |
 
 ### Secu [↰](#sommaire)
 | Nom                                                                                                                                                    | Description                                                                                              |
