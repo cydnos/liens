@@ -6,11 +6,11 @@
 - [Loisir](#loisir-)
 
 ### Base [↰](#sommaire)
-| Nom                                                                             | Description                                                                 | ID Winget |
+| Nom                                                                             | Description                                                                 | ID Winget [^1] |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------|
 | [**Archifiltre**](https://archifiltre.fabrique.social.gouv.fr/)                 | Outil d'analyse et de visualisation de l'arborescence des fichiers.         ||
 | [**Brave**](https://brave.com/fr/download/)                                     | Navigateur web axé sur la confidentialité et la sécurité.                   | `Brave.Brave` |
-| [**Chromium**](https://chromium.woolyss.com/)                                   | Projet de navigateur open-source qui sert de base à Google Chrome.          ||
+| [**Chromium**](https://chromium.woolyss.com/)                                   | Projet de navigateur open-source servant de base à Google Chrome.           ||
 | [**DupeGuru**](https://dupeguru.voltaicideas.net/)                              | Outil de recherche de doublons de fichiers.                                 | `DupeGuru.DupeGuru` |
 | [**Firefox**](https://www.mozilla.org/fr/firefox/all/)                          | Navigateur web open-source développé par Mozilla.                           | `Mozilla.Firefox` |
 | [**iTunes**](https://www.apple.com/itunes/download/win64)                       | Lecteur multimédia et gestionnaire de bibliothèque pour les appareils Apple.| `Apple.iTunes` |
@@ -29,7 +29,7 @@
 | Nom                                                                                                                                                    | Description                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | [**ESET Lecteur des fichiers système cachés**](http://download.eset.com/special/ESETHfsReader.exe) | Outil forensique analysant les infections actives. |
-| [**ESET Online Scanner**](https://www.eset.com/na/home/products/online-scanner/) | Scanner en ligne d'ESET pour détecter les malware. |
+| [**ESET Online Scanner**](https://www.eset.com/na/home/products/online-scanner/) | Scanner en ligne d'ESET pour détecter les malware. ([tuto](https://forum.pcastuces.com/eset_online_scanner___nouvelle_version___tutoriel-f31s56.htm))|
 | [**ESET Rogue Application Remover**](https://support.eset.com/en/kb3035-how-do-i-use-the-eset-rogue-application-remover-erar) | Solution de détection à chaud proposée par ESET. |
 | [**ESET Rootkit Detector**](https://www.eset.com/na/support/rootkit-detector/) | permet d’analyser en un seul clic votre Mac sous OS X pour détecter la présence d’éventuels rootkits. |
 | [**ESET SysInspector**](https://www.eset.com/na/support/sysinspector/) | Outil de diagnostic des informations critiques et détaillées proposée par ESET. |
@@ -38,9 +38,13 @@
 | [**Kaspersky Rescue Disk**](https://www.kaspersky.fr/downloads/free-rescue-disk) | Solution de détection à froid proposée par Kaspersky. |
 | [**Rescue Disk**](https://www.trendmicro.com/fr_fr/forHome/products/free-tools/rescue-disk.html) | Solution de détection à froid proposée par Trend Micro. |
 | [**Scanner de sécurité Microsoft**](https://learn.microsoft.com/fr-fr/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) | Outil d’analyse conçu pour rechercher et supprimer les programmes malveillants des ordinateurs Windows. |
+| [**Trellix GetSusp**](https://www.trellix.com/downloads/free-tools/getsusp/)||
+| [**Trellix Stinger**](https://www.trellix.com/downloads/free-tools/stinger/)|designed to detect and remove specific threats|
+| [**TrendMicroRescueDisk.exe**](https://www.trendmicro.com/fr_fr/forHome/products/free-tools/rescue-disk.html)              | Outil de récupération pour éliminer les menaces de sécurité sur les systèmes infectés. |
+| [**volatility_2.6_win64_standalone**](https://www.volatilityfoundation.org/releases)||
 
 ### Admin [↰](#sommaire)
-| Nom                                                                                 | Description                                                                         | ID Winget |
+| Nom                                                                                 | Description                                                                         | ID Winget [^1] |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------|
 | [**AnyDesk**](https://anydesk.com/en/downloads/windows)                             | Outil de prise en main distante.                                                    | `AnyDesk.AnyDesk` |
 | [**DB Browser for SQLite**](https://sqlitebrowser.org/dl/)                          | Outil de manipulation de base de données SQLite or SQLCipher.                       | `DBBrowserForSQLite.DBBrowserForSQLite` |
@@ -50,6 +54,7 @@
 | [**MobaXterm**](https://mobaxterm.mobatek.net/download.html)                        | Terminal et outil de réseau pour Windows avec de nombreuses fonctionnalités.        | `Mobatek.MobaXterm` |
 | [**Photorec**](https://www.cgsecurity.org/wiki/TestDisk_Download)                   | Logiciel de récupération de données pour les fichiers perdus.                       ||
 | [**PowerToys**](https://aka.ms/installpowertoys)                                    | Suite d'outils de personnalisation avancée de windows.                              | `Microsoft.PowerToys` |
+| [**PRTG Network Monitor**](https://www.paessler.com/prtg/download) |||
 | [**smartmontools**](https://www.smartmontools.org/wiki/Download)                    | Suite d'outils basés sur le protocole SMART de contrôle d'état des disques durs.    | `smartmontools.smartmontools` |
 | [**sysinternals**](\\live.sysinternals.com\tools)                                   | Suite d'outils pour la gestion, le diagnostic et le dépannage des systèmes Windows. | `Microsoft.Sysinternals` |
 | [**Terminal Windows**](https://aka.ms/terminal)                                     | Emulateur de terminal multi-onglets de Microsoft.                                   | `Microsoft.WindowsTerminal` |
@@ -57,19 +62,20 @@
 | [**Unlocker**](http://www.emptyloop.com/unlocker/)                                  | Utilitaire pour déverrouiller les fichiers utilisés par d'autres processus.         ||
 | [**UserBenchmark**](https://www.userbenchmark.com/)                                 | Utilitaire d'analyse de vitesse de lecture/écriture de composants matériels.        ||
 | [**VeraCrypt**](https://www.veracrypt.fr/en/Downloads.html)                         | Logiciel de chiffrement de disque open-source.                                      | `IDRIX.VeraCrypt` |
-| [**vscodium**](https://github.com/VSCodium/vscodium/releases)                       | Version open-source de Visual Studio Code sans télémétrie.                          | `VSCodium.VSCodium` |
+| [**VirtualBox**](https://www.virtualbox.org/wiki/Downloads)                         | Hyperviseur [type 2](https://www.it-connect.fr/les-types-dhyperviseurs/) gratuit.   | `Oracle.VirtualBox` |
+| [**vscodium**](https://github.com/VSCodium/vscodium/releases)                       | Version open-source de Visual Studio Code sans les télémetries de Microsoft.        | `VSCodium.VSCodium` |
 | [**WSL**](https://learn.microsoft.com/fr-fr/windows/wsl/install)                    | Couche de compatibilité permettant d'exécuter des binaires Linux sur Windows 10.    | `Microsoft.WSL` |
 
 ### Texte [↰](#sommaire)
-| Nom                                                                         | Description                                                                      | ID Winget |
+| Nom                                                                         | Description                                                                      | ID Winget [^1] |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------------------|-----------|
 | [**Geany**](https://www.geany.org/download/releases/)                       | Un éditeur de texte léger et rapide avec des fonctionnalités IDE.                | `Geany.Geany` |
+| [**LibreOffice**](https://fr.libreoffice.org/download/)                     | Alternative libre à la suite Office de Microsoft.                                ||
 | [**Notepad++**](https://notepad-plus-plus.org/downloads/)                   | Un éditeur de code source gratuit avec support pour plusieurs langages.          | `Notepad++.Notepad++` |
 | [**SumatraPDF**](https://www.sumatrapdfreader.org/download-free-pdf-viewer) | Un lecteur de PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ et CBR léger et rapide.       | `SumatraPDF.SumatraPDF` |
-| [**VSCodium**](https://github.com/VSCodium/vscodium/releases)               | Une version open-source de Visual Studio Code sans les télémetries de Microsoft. | `VSCodium.VSCodium` |
 
 ### Loisir [↰](#sommaire)
-| Nom                                                                                     | Description                                                                                  | ID Winget |
+| Nom                                                                                     | Description                                                                                  | ID Winget [^1] |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------|
 | [**AfterShot3Installer**](https://www.aftershotpro.com/en/)                             | Logiciel de traitement et d'édition de photos RAW.                                           ||
 | [**Audacity**](https://www.audacityteam.org/download/windows/)                          | Éditeur et enregistreur audio multi-piste open-source.                                       | `Audacity.Audacity` |
@@ -87,3 +93,5 @@
 | [**WacomTablet_6.3.38-2**](https://www.wacom.com/fr-fr/support/product-support/drivers) | Pilote pour les tablettes graphiques Wacom.                                                  ||
 | [**WhiteCap**](https://www.soundspectrum.com/whitecap/)                                 | Visualiseur de musique en temps réel pour les lecteurs multimédia.                           ||
 | [**XnView**](https://www.xnview.com/fr/xnview/)                                         | Visionneuse et convertisseur d'images multi-format.                                          ||
+
+[^1]: [https://learn.microsoft.com/fr-fr/windows/package-manager/winget/](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/)
