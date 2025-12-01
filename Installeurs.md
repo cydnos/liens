@@ -94,4 +94,5 @@
 | [**WhiteCap**](https://www.soundspectrum.com/whitecap/)                                 | Visualiseur de musique en temps réel pour les lecteurs multimédia.                           ||
 | [**XnView**](https://www.xnview.com/fr/xnview/)                                         | Visionneuse et convertisseur d'images multi-format.                                          ||
 
-[^1]: [https://learn.microsoft.com/fr-fr/windows/package-manager/winget/](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/)
+[^1]: [Utiliser WinGet pour installer et gérer des applications](https://learn.microsoft.com/fr-fr/windows/package-manager/winget/)
+
